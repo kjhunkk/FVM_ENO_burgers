@@ -1,0 +1,6 @@
+Options
+#0 upwind
+#1 Lax-Friedrich
+#2 Lax-Wendroff
+#3 Beam-Warming
+End
